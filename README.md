@@ -58,7 +58,7 @@ git --version
 ### Clone
 
 ```
-git clone https://bitbucket.org/arn-apex/mvp/src/main
+git clone [https://github.com/wolz-CODElife/arn-apex.git](https://github.com/wolz-CODElife/arn-apex.git)
 ```
 
 ### Install dependencies
